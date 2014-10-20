@@ -1,0 +1,16 @@
+public
+void
+moo
+(
+)
+{
+System
+.
+out
+.
+println
+(
+"moo"
+)
+;
+}
