@@ -22,13 +22,8 @@ println
 "ruff"
 )
 ;
-System
-.
-out
-.
-println
+takeABreath
 (
-"..."
 )
 ;
 System
