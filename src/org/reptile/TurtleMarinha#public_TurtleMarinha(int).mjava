@@ -1,11 +1,8 @@
 public
-Turtle
+TurtleMarinha
 (
 int
 age
-,
-int
-name
 )
 {
 this
@@ -13,11 +10,5 @@ this
 age
 =
 age
-;
-this
-.
-name
-=
-name
 ;
 }

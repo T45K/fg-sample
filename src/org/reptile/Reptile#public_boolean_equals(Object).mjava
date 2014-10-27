@@ -40,11 +40,11 @@ getClass
 return
 false
 ;
-Turtle
+TurtleMarinha
 other
 =
 (
-Turtle
+TurtleMarinha
 )
 obj
 ;
