@@ -1,0 +1,71 @@
+@Override
+public
+String
+toString
+(
+)
+{
+return
+"Snake [age="
++
+age
++
+", name="
++
+name
++
+", spead="
++
+spead
++
+", action="
++
+action
++
+", getAge()="
++
+getAge
+(
+)
++
+", getName()="
++
+getName
+(
+)
++
+", getSpead()="
++
+getSpead
+(
+)
++
+", getAction()="
++
+getAction
+(
+)
++
+", getClass()="
++
+getClass
+(
+)
++
+", hashCode()="
++
+hashCode
+(
+)
++
+", toString()="
++
+super
+.
+toString
+(
+)
++
+"]"
+;
+}
