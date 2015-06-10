@@ -2,8 +2,8 @@ public
 void
 barkBark
 (
-DogManager
-manager
+Dog
+dog
 )
 {
 System
@@ -24,6 +24,8 @@ println
 "ruff"
 )
 ;
+dog
+.
 takeABreath
 (
 )

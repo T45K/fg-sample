@@ -4,13 +4,11 @@ doStuff
 (
 )
 {
-this
-.
-dog
-.
 barkBark
 (
 this
+.
+dog
 )
 ;
 int
