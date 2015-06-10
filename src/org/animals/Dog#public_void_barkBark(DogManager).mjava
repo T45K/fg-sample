@@ -2,6 +2,8 @@ public
 void
 barkBark
 (
+DogManager
+manager
 )
 {
 System

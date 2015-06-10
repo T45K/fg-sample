@@ -1,0 +1,14 @@
+public
+DogManager
+(
+Dog
+aDog
+)
+{
+this
+.
+dog
+=
+aDog
+;
+}
